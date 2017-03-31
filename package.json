@@ -1,0 +1,25 @@
+{
+  "name": "mlb-stats-scraper",
+  "version": "1.0.0",
+  "description": "Scraper to get the stats for MLB teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredshane/mlb-stats-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredshane/mlb-stats-scraper/issues"
+  },
+  "homepage": "https://github.com/jaredshane/mlb-stats-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  }
+}
